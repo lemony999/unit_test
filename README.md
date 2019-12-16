@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/lemony999/unit_test.svg?branch=master)](https://travis-ci.com/lemony999/unit_test)
+
 # unit-test-for-data-science
 
 ## Setup
