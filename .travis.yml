@@ -5,7 +5,5 @@ install:
   - pip install -e .
 script:
   - pytest tests
-env:
-  - DECOV_TOKEN="0b071959-b0d6-46f7-8633-4aff6846f67c"
 after_success:
-  - codecov
+  - codecov -t "0b071959-b0d6-46f7-8633-4aff6846f67c"
